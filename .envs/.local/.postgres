@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=nutricoach
+POSTGRES_USER=CqWgeINmVEKDyakGYPhhoHMhvLgaNpWH
+POSTGRES_PASSWORD=K7lHJbuf4QqFTUAVVPLpQJwePdB1XObzlGKD6pAE1lsOR11buBJWW79BuqGOMAfM
